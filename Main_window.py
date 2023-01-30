@@ -419,5 +419,3 @@ class Main_window(tk.Tk):
         self.add_word_buttons_x = (self.window_width / 2) - (self.buttons_width / 2)
         self.add_word_back_button_y = self.window_height - 100
         self.add_word_save_button_y = self.window_height - 200
-
-
